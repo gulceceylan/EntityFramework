@@ -12,6 +12,7 @@
     <EntitySetMapping Name="Tbl_Musteri">
       <EntityTypeMapping TypeName="DBEntityUrunModel.Tbl_Musteri">
         <MappingFragment StoreEntitySet="Tbl_Musteri">
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
           <ScalarProperty Name="MUSTERIID" ColumnName="MUSTERIID" />
           <ScalarProperty Name="MUSTERIAD" ColumnName="MUSTERIAD" />
           <ScalarProperty Name="MUSTERISOYAD" ColumnName="MUSTERISOYAD" />
@@ -40,6 +41,15 @@
           <ScalarProperty Name="FİYAT" ColumnName="FİYAT" />
           <ScalarProperty Name="DURUM" ColumnName="DURUM" />
           <ScalarProperty Name="KATEGORİ" ColumnName="KATEGORİ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Admin">
+      <EntityTypeMapping TypeName="DBEntityUrunModel.Tbl_Admin">
+        <MappingFragment StoreEntitySet="Tbl_Admin">
+          <ScalarProperty Name="SIFRE" ColumnName="SIFRE" />
+          <ScalarProperty Name="KULLANICI" ColumnName="KULLANICI" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

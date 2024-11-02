@@ -12,6 +12,8 @@ namespace EntityProjeUygulama
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class DBEntityUrunEntities : DbContext
     {
@@ -29,5 +31,26 @@ namespace EntityProjeUygulama
         public virtual DbSet<Tbl_Musteri> Tbl_Musteri { get; set; }
         public virtual DbSet<Tbl_Satis> Tbl_Satis { get; set; }
         public virtual DbSet<Tbl_Urun> Tbl_Urun { get; set; }
+        public virtual DbSet<Tbl_Admin> Tbl_Admin { get; set; }
+    
+        public virtual ObjectResult<string> MARKAGETİR()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<string>("MARKAGETİR");
+        }
+    
+        public virtual ObjectResult<Tbl_Urun> markagetirr()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Tbl_Urun>("markagetirr");
+        }
+    
+        public virtual ObjectResult<Tbl_Urun> markagetirr(MergeOption mergeOption)
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Tbl_Urun>("markagetirr", mergeOption);
+        }
+    
+        public virtual ObjectResult<string> MARKAGETİR1()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<string>("MARKAGETİR1");
+        }
     }
 }

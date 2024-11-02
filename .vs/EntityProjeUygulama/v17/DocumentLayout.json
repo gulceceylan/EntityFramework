@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|c:\\users\\lenovo\\source\\repos\\entityprojeuygulama\\entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|c:\\users\\lenovo\\source\\repos\\entityprojeuygulama\\entityprojeuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|c:\\users\\lenovo\\source\\repos\\entityprojeuygulama\\entityprojeuygulama\\frm\u0130statistikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frm\u0130statistikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|c:\\users\\lenovo\\source\\repos\\entityprojeuygulama\\entityprojeuygulama\\frm\u0130statistikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frm\u0130statistikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|c:\\users\\lenovo\\source\\repos\\entityprojeuygulama\\entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B27B3-EE48-4459-BAE1-DDB82AEC1FA4}|EntityProjeUygulama\\EntityProjeUygulama.csproj|solutionrelative:entityprojeuygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 381,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +66,62 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "EntityProjeUygulama\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmGiris.cs [Design]",
+              "RelativeToolTip": "EntityProjeUygulama\\FrmGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:56:44.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Model1.edmx",
+              "RelativeDocumentMoniker": "EntityProjeUygulama\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EntityProjeUygulama\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-31T19:31:21.892Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm\u0130statistikler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "RelativeDocumentMoniker": "EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "RelativeToolTip": "EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:11:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm\u0130statistikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "RelativeDocumentMoniker": "EntityProjeUygulama\\Frm\u0130statistikler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Frm\u0130statistikler.cs [Design]",
+              "RelativeToolTip": "EntityProjeUygulama\\Frm\u0130statistikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:24:53.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FrmUrun.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmUrun.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\FrmUrun.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmUrun.cs",
               "RelativeToolTip": "EntityProjeUygulama\\FrmUrun.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAjwCIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAIA4wCIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T18:33:25.797Z",
               "EditorCaption": ""
@@ -79,20 +140,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FrmAnaForm.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmAnaForm.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\FrmAnaForm.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmAnaForm.cs",
               "RelativeToolTip": "EntityProjeUygulama\\FrmAnaForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAewBwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA4wCIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T18:30:25.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FrmAnaForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\FrmAnaForm.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\FrmAnaForm.cs",
@@ -104,19 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Program.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Program.cs",
               "RelativeToolTip": "EntityProjeUygulama\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:24:22.887Z"
+              "WhenOpened": "2024-10-31T21:24:22.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Form1.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\Form1.cs",
@@ -124,29 +186,20 @@
               "RelativeToolTip": "EntityProjeUygulama\\Form1.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:07:26.234Z"
+              "WhenOpened": "2024-10-31T20:07:26.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Model1.edmx",
-              "RelativeDocumentMoniker": "EntityProjeUygulama\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "EntityProjeUygulama\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-10-31T19:31:21.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Form1.cs",
               "RelativeDocumentMoniker": "EntityProjeUygulama\\Form1.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EntityProjeUygulama\\EntityProjeUygulama\\Form1.cs [Design]",
               "RelativeToolTip": "EntityProjeUygulama\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:21:31.216Z"
+              "WhenOpened": "2024-10-31T19:21:31.216Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

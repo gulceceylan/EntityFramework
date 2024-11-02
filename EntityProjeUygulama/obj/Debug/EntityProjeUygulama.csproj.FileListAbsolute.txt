@@ -60,3 +60,5 @@ C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\E
 C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.pdb
 C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmAnaForm.resources
 C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmUrun.resources
+C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Frmİstatistikler.resources
+C:\Users\Lenovo\source\repos\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmGiris.resources

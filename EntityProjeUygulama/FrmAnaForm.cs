@@ -28,5 +28,11 @@ namespace EntityProjeUygulama
             FrmUrun fr = new FrmUrun();
             fr.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Frmİstatistikler fr = new Frmİstatistikler();
+            fr.Show();
+        }
     }
 }

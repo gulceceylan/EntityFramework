@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="DBEntityUrunModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tbl_Admin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KULLANICI" Type="varchar" MaxLength="20" />
+    <Property Name="SIFRE" Type="varchar" MaxLength="20" />
+  </EntityType>
   <EntityType Name="Tbl_Kategori">
     <Key>
       <PropertyRef Name="ID" />
@@ -15,6 +23,7 @@
     <Property Name="MUSTERIAD" Type="varchar" MaxLength="30" />
     <Property Name="MUSTERISOYAD" Type="varchar" MaxLength="30" />
     <Property Name="SEHİR" Type="varchar" MaxLength="15" />
+    <Property Name="DURUM" Type="bit" />
   </EntityType>
   <EntityType Name="Tbl_Satis">
     <Key>
@@ -75,6 +84,7 @@
     </ReferentialConstraint>
   </Association>
   <EntityContainer Name="DBEntityUrunModelStoreContainer">
+    <EntitySet Name="Tbl_Admin" EntityType="Self.Tbl_Admin" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Tbl_Kategori" EntityType="Self.Tbl_Kategori" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Tbl_Musteri" EntityType="Self.Tbl_Musteri" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Tbl_Satis" EntityType="Self.Tbl_Satis" Schema="dbo" store:Type="Tables" />
